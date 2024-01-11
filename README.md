@@ -1,6 +1,6 @@
 # Blackjack
 
-A text-based version of Blackjack
+A simple, text-based version of Blackjack
 
 ## Getting Started
 
